@@ -1,0 +1,4 @@
+---
+- name: Creating 2 pods in EKS
+  shell:
+    cmd: kubectl apply -f /etc/ansible/kubernetes/files/deployment.yaml
