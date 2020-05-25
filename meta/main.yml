@@ -1,7 +1,7 @@
 galaxy_info:
- author: Bittu thakur
- description: It is a simplly EKS roles which allows you to deploy your mainefest file
- company: your company (optional)
+  author: Bittu thakur
+  description: It is a simplly EKS roles which allows you to deploy your mainefest file
+  company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
@@ -44,8 +44,7 @@ galaxy_info:
   #   - 7
   #   - 99.99
 
-  galaxy_tags: []
-  
+  galaxy_tags: [] 
    kubernetes
    kubectl 
    kubernetes roles
