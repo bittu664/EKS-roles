@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+It is a simplly EKS roles which allows you to deploy your mainefest file.
 
 Requirements
 ------------
