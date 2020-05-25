@@ -1,0 +1,19 @@
+---
+- name: "Performing EKS operations"
+  become: yes
+  hosts: localhost
+  roles:
+    - kubernetes
+
+
+
+
+
+
+
+
+
+
+
+
+
