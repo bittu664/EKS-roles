@@ -10,9 +10,7 @@ galaxy_info:
   - name: kubernetes
 
   galaxy_tags:
-    - aws
+    - EKS
     - cloud
     - kubernetes
     - kubectl
-    - EKS
-    - EKSroles
